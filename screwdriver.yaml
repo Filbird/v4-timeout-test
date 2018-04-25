@@ -7,5 +7,5 @@ jobs:
     steps:
       - sleep5Hours: sleep 18000
     annotations:
-      beta.screwdriver.cd/timeout: 1
+      beta.screwdriver.cd/timeout: invalid
       
